@@ -1,3 +1,3 @@
 ### Hi there 👋
 - 🔭 I’m currently working in [Powerplay](https://www.getpowerplay.in/)
-- 🌱 I’m currently learning Kotlin + Android
+- 🌱 I’m currently learning Android + Kotlin
